@@ -3,10 +3,10 @@ import * as redisClient from 'redis';
 import { User } from './classes';
 
 const redis = redisClient.createClient({
-  password: 'lhyxr8DKay5jy48egY1Qs6yoBDFeqWPn',
+  password: '',
   socket: {
-    host: 'redis-19971.c289.us-west-1-2.ec2.cloud.redislabs.com',
-    port: 19971,
+    host: 'localhost',
+    port: 6379,
   },
 });
 
