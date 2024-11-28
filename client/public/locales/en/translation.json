@@ -174,6 +174,15 @@
   "item__141011--name": "Apprentice Panel Opening Book",
   "item__141012--name": "Iron Ore",
   "item__141013--name": "Precious Ore",
+  
+  "item__148023--name": "Kebab Flavored Chips",
+  "item__148024--name": "ANBU Mask",
+  "item__148025--name": "Family Badge",
+  "item__148026--name": "Secret Letter",
+  "item__148027--name": "Shogi",
+  "item__148028--name": "First Aid Kit",
+  "item__148029--name": "Puppet",
+  "item__148030--name": "Kunai",
 
   "item__150000--name": "Random Item",
   
@@ -893,9 +902,13 @@
   "npc__11002--talk1": "I can provide you more arena tickets if you can complete a monster hunt for me.",
 
   "npc__11003--name": "Blacksmith",
+  "npc__11003--talk": "In the armory you can strengthen equipment, create a slot, insert or remove a gem. That's not all...",
 
   "npc__11005--name": "Merchant Boss",
   "npc__11005--talk": "Don't miss out on our collection of weapons and armor. Various equipment available at the best price.",
+  
+  "npc__11006--name": "Pet Kernel",
+  "npc__11006--talk": "In the Pet Kernel, you can feed your pet and teach him new skills. There is also a Pet Tracing to get Food/Pets.",
 
   "npc__16001--name": "Angel City Elder",
   "npc__16001--talk": "The Sakura mainland is shrouded in darkness. Only the most powerful ninjas can survive this arduous challenge.",
@@ -911,24 +924,37 @@
   "npc__21002--talk": "Woof woof! Pakkun is a smart little dog.",
 
   "npc__21003--name": "Traveling Merchant",
-  "npc__21003--talk": "Woof woof! Pakkun is a smart little dog.",
+  "npc__21003--talk": "Eh, have pity on the old fool. I still have to fuss and take care of my family",
 
   "npc__21004--name": "Hunter",
-  "npc__21004--talk": "Woof woof! Pakkun is a smart little dog.",
+  "npc__21004--talk": "A good hunter should have excellent eyesight and a strong body. Otherwise, you won't be able to catch the prey.",
 
   "npc__26001--name": "Master Yuan",
-  "npc__26001--talk": "Woof woof! Pakkun is a smart little dog.",
+  "npc__26001--talk": "You are an excellent ninja, which means you need powerful techniques, a well-coordinated team and iron discipline to complete the mission perfectly.",
 
   "npc__26002--name": "Feng",
-  "npc__26002--talk": "Woof woof! Pakkun is a smart little dog.",
+  "npc__26002--talk": "The City of Angels is an abode of peace. Truly, grace reigns here.",
 
   "npc__26003--name": "Chef",
+  "npc__26003--talk": "Rare ingredients growing on the plains are nature's gift to humanity. You can't trample them left and right.",
+  
+  "npc__26004--name": "Kabuki",
+  "npc__26004--talk": "Illuminating events in the world through art is our calling.",
+  
+  "npc__26005--name": "Lord Toad",
+  "npc__26005--talk": "Don't look down on our toads! Only the gifted will be able to fight side by side with us.",
+  
+  "npc__26006--name": "Lumberjack Man",
+  "npc__26006--talk": "Choose materials carefully. A wrong choice can lead to dire consequences.",
 
   "npc__26007--name": "Sentry",
-  "npc__26007--talk": "Woof woof! Pakkun is a smart little dog.",
+  "npc__26007--talk": "Be on the lookout and check anyone who seems suspicious to you!",
 
   "npc__26008--name": "Priest",
-  "npc__26008--talk": "Woof woof! Pakkun is a smart little dog.",
+  "npc__26008--talk": "A dark aura is spreading across our lands. We must Purifyi the World",
+  
+  "npc__26009--name": "Miko",
+  "npc__26009--talk": "If humans and monsters lived in harmony, the world would be a much better place.",
 
   "outfit_skill__2000": [
     "[[skill__2000--name]]:", 
