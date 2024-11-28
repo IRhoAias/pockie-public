@@ -241,6 +241,9 @@
   "item__150337--name": "Weapon Disassembly Scroll",
   "item__150338--name": "Armor Disassembly Scroll",
   "item__150339--name": "Jewlery Disassembly Scroll",
+  "item__150340--name": "W***** Disassembly Scroll",
+  "item__150341--name": "A**** Disassembly Scroll",
+  "item__150342--name": "J****** Dissasembly Scroll",
   "item__150347--name": "Elegant Gift Box",
   "item__150347--details": "Will generate a random item from above.",
   "item__1503040—name": "Mystery Scroll",
@@ -355,6 +358,7 @@
   
   "item__159026--name": "Purple Gem",
 
+  "item__159100--name": "AllOutFits",
   "item__159101--name": "Common Outfit Wishing Pot",
   "item__159101--details": "Open to get a random Common Outfit",
   "item__159102--name": "Uncommon Outfit Wishing Pot",
@@ -664,6 +668,17 @@
   "item__320030--name": "Kon",
   "item__320031--name": "Lily",
   "item__320033--name": "Elk",
+
+  "item__320036--name": "Green Dragon",
+  "item__320037--name": "Shukaku",
+  "item__320038--name": "Matatabi",
+  "item__320039--name": "Isobu",
+  "item__320040--name": "Son Gokū",
+  "item__320041--name": "Kokuō",
+  "item__320042--name": "Saiken",
+  "item__320043--name": "Chōmei",
+  "item__320044--name": "Gyūki",
+  "item__320045--name": "Kurama",
 
   "item__331601--name": "Oracle Robes",
   "item__331602--name": "Black Oracle Hat",
