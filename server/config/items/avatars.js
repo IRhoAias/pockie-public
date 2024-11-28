@@ -81,7 +81,7 @@ module.exports = {
 	
 	290076: { type: ItemType.Avatar, src: 'avatars/76', size: 4, value: 35, innate: { avatar: 76, isv: [1.2, 1.0, 0.9], bmv: [12, 15, 12], skills: [10000, 7777, 2011] }},
 	// 290077: { type: ItemType.Avatar, src: 'avatars/77', size: 4, innate: { avatar: 77, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
-	290078: { type: ItemType.Avatar, src: 'avatars/78', size: 4, innate: { avatar: 78, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
+	// 290078: { type: ItemType.Avatar, src: 'avatars/78', size: 4, innate: { avatar: 78, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	// 290079: { type: ItemType.Avatar, src: 'avatars/79', size: 4, innate: { avatar: 79, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	// 290080: { type: ItemType.Avatar, src: 'avatars/80', size: 4, innate: { avatar: 80, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	// 290081: { type: ItemType.Avatar, src: 'avatars/81', size: 4, innate: { avatar: 81, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
