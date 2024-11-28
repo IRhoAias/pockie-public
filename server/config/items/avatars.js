@@ -75,10 +75,13 @@ module.exports = {
 	290072: { type: ItemType.Avatar, src: 'avatars/72', size: 4, value: 42, innate: { avatar: 72, isv: [1.5, 0.7, 1.4], bmv: [10, 17, 11], skills: [10000, 7777, 2092] }},
 	290073: { type: ItemType.Avatar, src: 'avatars/73', size: 4, value: 0, innate: { avatar: 73, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	290074: { type: ItemType.Avatar, src: 'avatars/74', size: 4, value: 42, innate: { avatar: 74, isv: [1.3, 1.25, 1.3], bmv: [12, 13, 11], skills: [10000, 7777, 2012] }},
-	// 290075: { type: ItemType.Avatar, src: 'avatars/75', size: 4, innate: { avatar: 75, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
+	
+	// 3rd Form Aizen
+	290075: { type: ItemType.Avatar, src: 'avatars/75', size: 4, value: 42, innate: { avatar: 75, isv: [2.05, 1.95, 1.6], bmv: [13, 7, 9], skills: [10000, 7777, 2092] }},
+	
 	290076: { type: ItemType.Avatar, src: 'avatars/76', size: 4, value: 35, innate: { avatar: 76, isv: [1.2, 1.0, 0.9], bmv: [12, 15, 12], skills: [10000, 7777, 2011] }},
 	// 290077: { type: ItemType.Avatar, src: 'avatars/77', size: 4, innate: { avatar: 77, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
-	// 290078: { type: ItemType.Avatar, src: 'avatars/78', size: 4, innate: { avatar: 78, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
+	290078: { type: ItemType.Avatar, src: 'avatars/78', size: 4, innate: { avatar: 78, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	// 290079: { type: ItemType.Avatar, src: 'avatars/79', size: 4, innate: { avatar: 79, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	// 290080: { type: ItemType.Avatar, src: 'avatars/80', size: 4, innate: { avatar: 80, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	// 290081: { type: ItemType.Avatar, src: 'avatars/81', size: 4, innate: { avatar: 81, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
@@ -91,8 +94,15 @@ module.exports = {
 	290088: { type: ItemType.Avatar, src: 'avatars/88', size: 4, value: 35, innate: { avatar: 88, isv: [1.3, 0.8, 1.0], bmv: [11, 21, 11], skills: [10000, 7777, 2082] }},
 	290089: { type: ItemType.Avatar, src: 'avatars/89', size: 4, value: 35, innate: { avatar: 89, isv: [1.15, 1.25, 0.7], bmv: [12, 13, 15], skills: [10000, 7777, 2072] }},
 	290090: { type: ItemType.Avatar, src: 'avatars/90', size: 4, value: 42, innate: { avatar: 90, isv: [1.40, 0.75, 1.45], bmv: [12, 17, 9], skills: [10000, 7777, 2092] }},
+	// Kisuke Uruhara
+	290095: { type: ItemType.Avatar, src: 'avatars/95', size: 4, value: 42, innate: { avatar: 95, isv: [1.50, 1.50, 1.50], bmv: [11, 11, 10], skills: [10000, 7777, 2082] }},
 
 	290098: { type: ItemType.Avatar, src: 'avatars/98', size: 4, value: 42, innate: { avatar: 98, isv: [1.25, 1.25, 1.50], bmv: [17, 13, 8], skills: [10000, 7777, 2002] }},
+	
+	// Madara Uchiha
+	290170: { type: ItemType.Avatar, src: 'avatars/170', size: 4, value: 42, innate: { avatar: 170, isv: [1.85, 2.0, 1.85], bmv: [13, 7, 9], skills: [10000, 7777, 2002] }},
+	// Yamamoto Genryusai
+	290178: { type: ItemType.Avatar, src: 'avatars/178', size: 4, value: 42, innate: { avatar: 178, isv: [1.85, 1.6, 2.0], bmv: [9, 16, 7], skills: [10000, 7777, 2052] }},
 
 	// 2940010: { type: ItemType.Avatar, src: 'avatars/101', size: 4, value: 42, innate: { avatar: 87, isv: [1.45, 1.15, 1.40], bmv: [8, 17, 13], skills: [10000, 7777, 2052] }},
 	// 2940020: { type: ItemType.Avatar, src: 'avatars/102', size: 4, value: 42, innate: { avatar: 87, isv: [1.45, 1.15, 1.40], bmv: [8, 17, 13], skills: [10000, 7777, 2052] }},
