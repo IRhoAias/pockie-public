@@ -88,8 +88,8 @@ module.exports = {
 	290085: { type: ItemType.Avatar, src: 'avatars/85', size: 4, value: 42, innate: { avatar: 85, isv: [1.2, 1.5, 1.4], bmv: [13, 12, 11], skills: [10000, 7777, 2062] }},
 	290086: { type: ItemType.Avatar, src: 'avatars/86', size: 4, value: 42, innate: { avatar: 86, isv: [1.2, 1.35, 1.5], bmv: [13, 11, 10], skills: [10000, 7777, 2082] }},
 	290087: { type: ItemType.Avatar, src: 'avatars/87', size: 4, value: 42, innate: { avatar: 87, isv: [1.5, 1.35, 1.2], bmv: [10, 13, 11], skills: [10000, 7777, 2052] }},
-	290088: { type: ItemType.Avatar, src: 'avatars/88', size: 4, value: 42, innate: { avatar: 88, isv: [1.3, 0.8, 1.0], bmv: [11, 21, 11], skills: [10000, 7777, 2082] }},
-	290089: { type: ItemType.Avatar, src: 'avatars/89', size: 4, value: 42, innate: { avatar: 89, isv: [1.15, 1.25, 0.7], bmv: [12, 13, 15], skills: [10000, 7777, 2072] }},
+	290088: { type: ItemType.Avatar, src: 'avatars/88', size: 4, value: 35, innate: { avatar: 88, isv: [1.3, 0.8, 1.0], bmv: [11, 21, 11], skills: [10000, 7777, 2082] }},
+	290089: { type: ItemType.Avatar, src: 'avatars/89', size: 4, value: 35, innate: { avatar: 89, isv: [1.15, 1.25, 0.7], bmv: [12, 13, 15], skills: [10000, 7777, 2072] }},
 	290090: { type: ItemType.Avatar, src: 'avatars/90', size: 4, value: 42, innate: { avatar: 90, isv: [1.40, 0.75, 1.45], bmv: [12, 17, 9], skills: [10000, 7777, 2092] }},
 
 	290098: { type: ItemType.Avatar, src: 'avatars/98', size: 4, value: 42, innate: { avatar: 98, isv: [1.25, 1.25, 1.50], bmv: [17, 13, 8], skills: [10000, 7777, 2002] }},
