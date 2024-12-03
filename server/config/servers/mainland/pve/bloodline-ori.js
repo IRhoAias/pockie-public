@@ -2,7 +2,7 @@ const Stat = require('../../../lines').Stat;
 
 module.exports = {
 	Config: {
-		itemsPerDay: 10,
+		itemsPerDay: 25,
 		itemsPerTurnIn: 4,
 		amityGainedPerTurnIn: 30,
 		soulLevelLimits: [25, 25, 25, 36, 36, 51, 71, 71]
