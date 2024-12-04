@@ -9,7 +9,7 @@ module.exports = {
 	},
 	Limits: {
 		1: { //Body Enlargement Technique
-			level: 20, // Choji Akimichi
+			level: 21, // Choji Akimichi
 			item: 148023,
 			amity: 30,
 			avatar: 16,
@@ -17,7 +17,7 @@ module.exports = {
 			bonus: [[Stat.SkillAdd5, 2], [Stat.Toughness, 43], [Stat.Strength, 30]]
 		},
 		2: { //House of Fliying Blades
-			level: 20, // Tenten
+			level: 21, // Tenten
 			item: 148023,
 			amity: 30,
 			avatar: 63,
@@ -170,7 +170,7 @@ module.exports = {
 		},
 		21: { //Cosmic Resurrection
 			level: 54, // 2nd Hokage
-			item: 148030,
+			item: 148031,
 			amity: 2100,
 			avatar: 50,
 			stats: [40, 63, 55], // str, agi, sta
@@ -178,7 +178,7 @@ module.exports = {
 		},
 		22: { //Prophet
 			level: 74, // 3rd Hokage
-			item: 148030,
+			item: 148035,
 			amity: 4500,
 			avatar: 53,
 			stats: [60, 88, 86], // str, agi, sta
@@ -186,7 +186,7 @@ module.exports = {
 		},
 		23: { //Huge Rasengan
 			level: 37, // 4th Hokage
-			item: 148030,
+			item: 148035,
 			amity: 4500,
 			avatar: 56,
 			stats: [92, 84, 52], // str, agi, sta
@@ -194,7 +194,7 @@ module.exports = {
 		},
 		24: { //Beast Clay
 			level: 56, //Deidara
-			item: 148030,
+			item: 148032,
 			amity: 2100,
 			avatar: 105,
 			stats: [50, 70, 40], // str, agi, sta
@@ -202,7 +202,7 @@ module.exports = {
 		},
 		25: { //Blood Obsession
 			level: 52, // Hidan
-			item: 148030,
+			item: 148032,
 			amity: 2100,
 			avatar: 104,
 			stats: [68, 32, 56], // str, agi, sta
@@ -210,7 +210,7 @@ module.exports = {
 		},
 		26: { //Shark Prison
 			level: 60, // Kisame Hoshigaki
-			item: 148030,
+			item: 148032,
 			amity: 2100,
 			avatar: 107,
 			stats: [65, 35, 65], // str, agi, sta
@@ -218,7 +218,7 @@ module.exports = {
 		},
 		27: { //Hidden Mist
 			level: 58, // 5th Misukage
-			item: 148030,
+			item: 148033,
 			amity: 2100,
 			avatar: 44,
 			stats: [54, 54, 54], // str, agi, sta
@@ -226,7 +226,7 @@ module.exports = {
 		},
 		28: { //Hidden Ink
 			level: 41, // Sai
-			item: 148030,
+			item: 148033,
 			amity: 2100,
 			avatar: 112,
 			stats: [58, 32, 65], // str, agi, sta
@@ -234,7 +234,7 @@ module.exports = {
 		},
 		29: { //Paper Messenger of God
 			level: 54, // Konan
-			item: 148030,
+			item: 148033,
 			amity: 2100,
 			avatar: 108,
 			stats: [58, 60, 40], // str, agi, sta
@@ -242,7 +242,7 @@ module.exports = {
 		},
 		30: { //Konoha Vortex
 			level: 51, // Rock Lee
-			item: 148030,
+			item: 148034,
 			amity: 2100,
 			avatar: 21,
 			stats: [52, 51, 52], // str, agi, sta
@@ -250,7 +250,7 @@ module.exports = {
 		},
 		31: { //Water Meat Grinder
 			level: 56, // Suigetsu
-			item: 148030,
+			item: 148034,
 			amity: 4500,
 			avatar: 113,
 			stats: [68, 52, 40], // str, agi, sta
@@ -258,7 +258,7 @@ module.exports = {
 		},
 		32: { //Berserk Mode
 			level: 60, // Jugo
-			item: 148030,
+			item: 148034,
 			amity: 4500,
 			avatar: 115,
 			stats: [38, 65, 65], // str, agi, sta
@@ -266,7 +266,7 @@ module.exports = {
 		},
 		33: { //Kyuby Eye
 			level: 58, // Kyuby Naruto
-			item: 148030,
+			item: 148031,
 			amity: 4500,
 			avatar: 98,
 			stats: [38, 59, 65], // str, agi, sta
@@ -274,7 +274,7 @@ module.exports = {
 		},
 		34: { //2nd Stage Sharingan
 			level: 60, // Uchiha Sasuke
-			item: 148030,
+			item: 148031,
 			amity: 4500,
 			avatar: 48,
 			stats: [65, 65, 35], // str, agi, sta
@@ -282,7 +282,7 @@ module.exports = {
 		},
 		35: { //3rd Stage Sharingan
 			level: 73, // Kakashi
-			item: 148030,
+			item: 148037,
 			amity: 4500,
 			avatar: 47,
 			stats: [78, 77, 77], // str, agi, sta
@@ -290,7 +290,7 @@ module.exports = {
 		},
 		36: { //Hell Swamp
 			level: 75, // Jirayja
-			item: 148030,
+			item: 148037,
 			amity: 4500,
 			avatar: 57,
 			stats: [88, 98, 50], // str, agi, sta
@@ -298,7 +298,7 @@ module.exports = {
 		},
 		37: { //Divine Healing
 			level: 75, // Tsunade
-			item: 148030,
+			item: 148036,
 			amity: 4500,
 			avatar: 72,
 			stats: [51, 90, 95], // str, agi, sta
@@ -306,7 +306,7 @@ module.exports = {
 		},
 		38: { //Devastation
 			level: 72, // Gaara
-			item: 148030,
+			item: 148036,
 			amity: 4500,
 			avatar: 46,
 			stats: [84, 48, 98], // str, agi, sta
@@ -314,7 +314,7 @@ module.exports = {
 		},
 		39: { //Rinnegan
 			level: 82, // Pain
-			item: 148030,
+			item: 148038,
 			amity: 4500,
 			avatar: 106,
 			stats: [70, 120, 90], // str, agi, sta
@@ -322,7 +322,7 @@ module.exports = {
 		},
 		40: { //Mangekyo Sharingan
 			level: 81, // Uchiha Itachi
-			item: 148030,
+			item: 148038,
 			amity: 4500,
 			avatar: 49,
 			stats: [90, 120, 70], // str, agi, sta
@@ -330,7 +330,7 @@ module.exports = {
 		},
 		41: { //Mangekyo Sharingan
 			level: 84, // Hebi Sasuke
-			item: 148030,
+			item: 148040,
 			amity: 4500,
 			avatar: 111,
 			stats: [120, 90, 70], // str, agi, sta
@@ -338,7 +338,7 @@ module.exports = {
 		},
 		42: { //Inmortality
 			level: 81, // Orochimaru
-			item: 148030,
+			item: 148040,
 			amity: 4500,
 			avatar: 51,
 			stats: [70, 80, 120], // str, agi, sta
@@ -346,7 +346,7 @@ module.exports = {
 		},
 		43: { //Six Path Seal
 			level: 84, // Sage Naruto
-			item: 148030,
+			item: 148039,
 			amity: 4500,
 			avatar: 109,
 			stats: [120, 70, 90], // str, agi, sta
@@ -354,7 +354,7 @@ module.exports = {
 		},
 		44: { //Toad Mouth Trap
 			level: 82, // Sage Jirayja
-			item: 148030,
+			item: 148039,
 			amity: 4500,
 			avatar: 110,
 			stats: [90, 70, 120], // str, agi, sta

@@ -199,7 +199,7 @@ module.exports = {
 	290069: { type: ItemType.Avatar, src: 'avatars/69', size: 4, value: 35, innate: { avatar: 69, isv: [12.2, 8.4, 9.2], bmv: [30, 30, 30], skills: [10000, 7777, 2001] }},
 	
 	// Tatsuki Arisawa
-	290070: { type: ItemType.Avatar, src: 'avatars/70', size: 4, value: 0, innate: { avatar: 70, isv: [12.2, 8.4, 9.2], bmv: [22, 29, 26], skills: [10000, 7777, 2052] }},
+	290070: { type: ItemType.Avatar, src: 'avatars/70', size: 4, value: 42, innate: { avatar: 70, isv: [12.2, 8.4, 9.2], bmv: [22, 29, 26], skills: [10000, 7777, 2052] }},
 	
 	// 290071: { type: ItemType.Avatar, src: 'avatars/71', size: 4, innate: { avatar: 71, isv: [0.0, 0.0, 0.0], bmv: [0, 0, 0], skills: [10000, 7777] }},
 	
@@ -239,10 +239,10 @@ module.exports = {
 	290087: { type: ItemType.Avatar, src: 'avatars/87', size: 4, value: 42, innate: { avatar: 87, isv: [12.2, 8.4, 9.2], bmv: [25, 28, 27], skills: [10000, 7777, 2052] }},
 	
 	// Christmas (Male)
-	290088: { type: ItemType.Avatar, src: 'avatars/88', size: 4, value: 42, innate: { avatar: 88, isv: [12.2, 8.4, 9.2], bmv: [30, 30, 30], skills: [10000, 7777, 2082] }},
+	290088: { type: ItemType.Avatar, src: 'avatars/88', size: 4, value: 35, innate: { avatar: 88, isv: [12.2, 8.4, 9.2], bmv: [30, 30, 30], skills: [10000, 7777, 2082] }},
 	
 	// Christmas (Female)
-	290089: { type: ItemType.Avatar, src: 'avatars/89', size: 4, value: 42, innate: { avatar: 89, isv: [12.2, 8.4, 9.2], bmv: [30, 30, 30], skills: [10000, 7777, 2072] }},
+	290089: { type: ItemType.Avatar, src: 'avatars/89', size: 4, value: 35, innate: { avatar: 89, isv: [12.2, 8.4, 9.2], bmv: [30, 30, 30], skills: [10000, 7777, 2072] }},
 	
 	// Retsu Unohana
 	290090: { type: ItemType.Avatar, src: 'avatars/90', size: 4, value: 42, innate: { avatar: 90, isv: [12.2, 8.4, 9.2], bmv: [48, 21, 19], skills: [10000, 7777, 2092] }},

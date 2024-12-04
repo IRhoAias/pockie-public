@@ -146,6 +146,10 @@ module.exports = {
 				[290053, 1, 2, 3],
 				[290067, 1, 3, 2],
 				[290070, 2, 3, 1],
+				[290095, 2, 2, 2], //Kisuke Uruhara
+				[290075, 2, 2, 2], //3rd Form Aizen
+				[290170, 1, 3, 2], //Madara Uchiha
+				[290178, 2, 1, 3], //Yamamoto Genryusai
 			],
 			levels: {
 				5: [
