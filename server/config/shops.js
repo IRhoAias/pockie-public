@@ -669,23 +669,40 @@ const Shops = {
 	},
 	[Shop.Food]: {
 		refreshCost: 0,
-		amount: 15,
+		amount: 32,
 		items: [
-			{ item: 160000, price: 0},
-			{ item: 170002, price: 0},
-			{ item: 170003, price: 0},
-			{ item: 170004, price: 0},
-			{ item: 350002, price: 0},
-			{ item: 350102, price: 0},
-			{ item: 148023, price: 0},
-			{ item: 150406, price: 0},
-			{ item: 159001, price: 0},
-			{ item: 150078, price: 0},
-			{ item: 152060, price: 0},
-			{ item: 290027, price: 0},
-			{ item: 320003, price: 0},
-			{ item: 159100, price: 0},
-			{ item: 150167, price: 0}
+			{ item: 159015, price: 0}, //PetFoodx20
+			{ item: 152025, price: 0}, //PetSkillBook
+			{ item: 150078, price: 0}, //DemonProof
+			{ item: 160000, price: 0}, //SoulBox
+			{ item: 159100, price: 0}, //AllOutfits+32
+			{ item: 160107, price: 0}, //Pets+21
+			{ item: 159006, price: 0}, // Stones
+			{ item: 110106, price: 0}, // Strength 
+			{ item: 110206, price: 0}, // Agility
+			{ item: 110406, price: 0}, // Speed
+			{ item: 110506, price: 0}, // Attack
+			{ item: 110606, price: 0}, // Max Health
+			{ item: 110306, price: 0}, // Stamina
+			{ item: 148023, price: 0}, //Bloodline Item
+			{ item: 148024, price: 0}, //Bloodline Item
+			{ item: 148025, price: 0}, //Bloodline Item
+			{ item: 148026, price: 0}, //Bloodline Item
+			{ item: 148027, price: 0}, //Bloodline Item
+			{ item: 148028, price: 0}, //Bloodline Item
+			{ item: 148029, price: 0}, //Bloodline Item
+			{ item: 148030, price: 0}, //Bloodline Item
+			{ item: 148031, price: 0}, //Bloodline Item
+			{ item: 148032, price: 0}, //Bloodline Item
+			{ item: 148033, price: 0}, //Bloodline Item
+			{ item: 148034, price: 0}, //Bloodline Item
+			{ item: 148035, price: 0}, //Bloodline Item
+			{ item: 148036, price: 0}, //Bloodline Item
+			{ item: 148037, price: 0}, //Bloodline Item
+			{ item: 148038, price: 0}, //Bloodline Item
+			{ item: 148039, price: 0}, //Bloodline Item
+			{ item: 148040, price: 0}, //Bloodline Item
+			{ item: 150167, price: 0}, //45mExp
 		]
 	},
 	...require('./servers/mainland/shops/blackMarket')
