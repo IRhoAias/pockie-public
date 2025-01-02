@@ -82,12 +82,12 @@
   "item__110605--name": "Flawless Amethyst",
   "item__110606--name": "Perfect Amethyst",
 
-  "item__110701--name": "Chipped Peridot",
-  "item__110702--name": "Flawed Peridot",
-  "item__110703--name": "Cracked Peridot",
-  "item__110704--name": "Peridot",
-  "item__110705--name": "Flawless Peridot",
-  "item__110706--name": "Perfect Peridot",
+  "item__110701--name": "Heart of Shukaku",
+  "item__110702--name": "Heart of Matatabi",
+  "item__110703--name": "Heart of Isobu",
+  "item__110704--name": "Heart of Son Gokū",
+  "item__110705--name": "Heart of Kokuō",
+  "item__110706--name": "Heart of Saiken",
 
   "item__110801--name": "Chipped Aquamarine",
   "item__110802--name": "Flawed Aquamarine",
@@ -255,6 +255,7 @@
   "item__150160--name": "Level 3 Point Bag",
   "item__150161--name": "Level 4 Point Bag",
   "item__150162--name": "Level 5 Point Bag",
+  "item__150167--name": "Exp Bag With 45M Exp",
   "item__150168--name": "Level 1 Exp Bag",
   "item__150169--name": "Level 2 Exp Bag",
   "item__150170--name": "Level 3 Exp Bag",
@@ -432,6 +433,10 @@
 
   "item__160026--name": "Elemental Focus Powder",
   "item__160027--name": "Elemental Focus Salve",
+  
+  "item__160050--name": "Healing Pouch Lvl.1",
+  "item__160054--name": "Healing Pouch Lvl.2",
+  "item__160074--name": "Chakra Pouch Lvl.2",
 
   "item__160101--name": "Gray Outfit Wishing Pot",
   "item__160101--details": "Select a gray outfit on use.",
@@ -1080,6 +1085,9 @@
   "npc__16001--talk": "The Sakura mainland is shrouded in darkness. Only the most powerful ninjas can survive this arduous challenge.",
   "npc__16001--talk__village_swap": "The village you select will give you a flat +3% bonus to the proc rate of those skills.",
 
+  "npc__16003--name": "Blacksmith",
+  "npc__16011--name": "Dice Of Fate",
+  
   "npc__16005--name": "Angel City Merchant",
   "npc__16005--talk": "Don't miss out on our collection of weapons and armor. Various equipment available at the best price.",
 
@@ -1297,6 +1305,37 @@
     "[[skill__10000--name]]:", 
     "10% chance to unleash a powerful move when enemy below 15% health."
   ],
+  
+  "skill__2000--tooltip":"* Increase [[tooltip__damage--fire]] by 5%.",
+  "skill__2001--tooltip":"* Increase [[tooltip__damage--fire]] by 10%.",
+  "skill__2002--tooltip":"* Increase [[tooltip__damage--fire]] by 15%.",
+  "skill__2010--tooltip":"* Increase [[tooltip__damage--water] by 5%.",
+  "skill__2011--tooltip":"* Increase [[tooltip__damage--water] by 10%.",
+  "skill__2012--tooltip":"* Increase [[tooltip__damage--water] by 15%.",
+  "skill__2020--tooltip":"* Increase [[tooltip__damage--earth]] by 5%.",
+  "skill__2021--tooltip":"* Increase [[tooltip__damage--earth]] by 10%.",
+  "skill__2022--tooltip":"* Increase [[tooltip__damage--earth]] by 15%.",
+  "skill__2030--tooltip":"* Increase [[tooltip__damage--lightning]] by 5%.",
+  "skill__2031--tooltip":"* Increase [[tooltip__damage--lightning]] by 10%.",
+  "skill__2032--tooltip":"* Increase [[tooltip__damage--lightning]] by 15%.",
+  "skill__2040--tooltip":"* Increase [[tooltip__damage--wind]] by 5%.",
+  "skill__2041--tooltip":"* Increase [[tooltip__damage--wind]] by 10%.",
+  "skill__2042--tooltip":"* Increase [[tooltip__damage--wind]] by 15%.",
+  "skill__2050--tooltip":"* Increase [[tooltip__damage--body]] by 5%.",
+  "skill__2051--tooltip":"* Increase [[tooltip__damage--body]] by 10%.",
+  "skill__2052--tooltip":"* Increase [[tooltip__damage--body]] by 15%.",
+  "skill__2060--tooltip":"* Increase [[tooltip__damage--sealing]] by 5%.",
+  "skill__2061--tooltip":"* Increase [[tooltip__damage--sealing]] by 10%.",
+  "skill__2062--tooltip":"* Increase [[tooltip__damage--sealing]] by 15%.",
+  "skill__2070--tooltip":"* Increase [[tooltip__damage--tool]] by 5%.",
+  "skill__2071--tooltip":"* Increase [[tooltip__damage--tool]] by 10%.",
+  "skill__2072--tooltip":"* Increase [[tooltip__damage--tool]] by 15%.",
+  "skill__2080--tooltip":"* Increase [[tooltip__damage--illusion]] by 5%.",
+  "skill__2081--tooltip":"* Increase [[tooltip__damage--illusion]] by 10%.",
+  "skill__2082--tooltip":"* Increase [[tooltip__damage--illusion]] by 15%.",
+  "skill__2090--tooltip":"* Increase [[tooltip__damage--healing]] by 5%.",
+  "skill__2091--tooltip":"* Increase [[tooltip__damage--healing]] by 10%.",
+  "skill__2092--tooltip":"* Increase [[tooltip__damage--healing]] by 15%.",
 
   "prompt__refine": "Without a Refining Talisman this will cost ${} stone.",
 
